@@ -85,13 +85,13 @@ This ensures only high-quality, clinically meaningful images are used for traini
 
 ## 🚀 How to Run Locally
 
-# Clone the repository
+### Clone the repository
 git clone https://github.com/Venisriyallampalli/Psoriasis-Severity-and-Type-Detection.git
 cd Psoriasis-Severity-and-Type-Detection
 
-# Install dependencies
+### Install dependencies
 pip install -r requirements.txt
 
-# Run the application
+### Run the application
 python app.py
 
